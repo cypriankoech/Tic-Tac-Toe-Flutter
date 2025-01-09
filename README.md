@@ -23,5 +23,5 @@ To run this project, ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tictactoe.git
+   git clone https://github.com/cypriankoech/tictactoe.git
    cd tictactoe
