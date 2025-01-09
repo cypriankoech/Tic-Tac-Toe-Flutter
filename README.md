@@ -1,16 +1,27 @@
-# tictactoe
+# Tic-Tac-Toe Game
 
-A new Flutter project.
+A simple and visually appealing **Tic-Tac-Toe game** built using **Flutter**. This project demonstrates how to design and develop a classic game with a focus on UI and game logic, using Flutter's widgets and tools.
+
+---
+
+## Features
+- 🎮 **Interactive Gameplay**: Play against another player locally.
+- 🖼️ **Custom Assets**: High-quality custom assets for the board and pieces (X and O).
+- 📱 **Responsive Design**: Works on mobile, web, and desktop.
+- 🌟 **Beginner-Friendly Codebase**: Ideal for those learning Flutter and Dart.
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
+To run this project, ensure you have the following installed:
+- Flutter SDK (version 3.10 or later)
+- Dart SDK
+- A code editor, such as [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/tictactoe.git
+   cd tictactoe
