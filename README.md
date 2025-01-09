@@ -25,3 +25,24 @@ To run this project, ensure you have the following installed:
    ```bash
    git clone https://github.com/cypriankoech/tictactoe.git
    cd tictactoe
+2. Install the dependencies:
+   ```bash
+   flutter pub get
+3. Run the project:
+   ```bash
+   flutter run
+
+# How to Play
+1. Open the game on your device or browser.
+2. Take turns placing X or O on the board.
+3. The first player to align three Xs or Os horizontally, vertically, or diagonally wins.
+4. If the board is filled without any winner, the game ends in a draw.
+
+# Project Structure
+tictactoe/
+├── assets/         # Custom assets for the board and pieces
+├── lib/            # Main Flutter application files
+│   ├── main.dart   # Entry point for the application
+│   ├── board.dart  # Widget for rendering the game board
+│   ├── game_logic.dart  # Game mechanics and logic
+├── pubspec.yaml    # Dependencies and project configuration
