@@ -40,9 +40,15 @@ To run this project, ensure you have the following installed:
 
 # Project Structure
 tictactoe/
+
 ├── assets/         # Custom assets for the board and pieces
+
 ├── lib/            # Main Flutter application files
+
 │   ├── main.dart   # Entry point for the application
+
 │   ├── board.dart  # Widget for rendering the game board
+
 │   ├── game_logic.dart  # Game mechanics and logic
+
 ├── pubspec.yaml    # Dependencies and project configuration
